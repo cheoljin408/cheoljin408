@@ -1,6 +1,9 @@
-### Hi there 👋
+1. 유연한 사고
+2. 남탓하지 않기
 
 <!--
+### Hi there 👋
+
 **cheoljin408/cheoljin408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
